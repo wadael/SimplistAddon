@@ -1,0 +1,12 @@
+== SimplistAddon
+:idprefix: id_wadael_simplist_addon_forge 
+The SimplistAddon addon enables you to read simplist JBoss Forge addon code.
+        
+=== Dependencies: None (or)
+== Setup
+
+This Addon requires the following installation steps.
+
+addon-install-from-git -url  this site
+
+
